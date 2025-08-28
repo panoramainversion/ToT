@@ -101,7 +101,8 @@ $$R \cdot (-2n\pi) \cdot \frac{1}{2} = \overline{C}$$
 
 ---
 
-# Parametric Curve Theory: A Mathematical Framework from Geometric Construction to Unification of Fundamental Forces
+# Parametric Curve Theory:   
+# A Mathematical Framework from Geometric Construction to Unification of Fundamental Forces
 
 ## Abstract
 This paper proposes a mathematical framework based on parametric curve theory.   
