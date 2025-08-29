@@ -67,7 +67,7 @@ $$C(t, k) = \left( t\sin(t + 2\pi k),\ t\cos^2(t + 2\pi k) \right)$$
 
 - **电磁力（ $$EM$$ 曲线， $$P$$ 曲线尺度反演）**：
 - 
-  $$\text{EM}(t) = n^{-1}P(t) = \left( \frac{\pi}{t}\sin t,\ \frac{\pi}{t}\cos^2 t \right),\quad t \in \left[ \frac{\pi}{2},\ n\pi \right]$$
+  $$EM(t) = n^{-1}P(t) = \left( \frac{\pi}{t}\sin t,\ \frac{\pi}{t}\cos^2 t \right),\quad t \in \left[ \frac{\pi}{2},\ n\pi \right]$$
 
 - **引力（ $$G$$ 曲线， $$R$$ 曲线尺度扩张）**：
 - 
@@ -172,7 +172,7 @@ Based on branched $$C-curves$$ , four fundamental force curves are generated via
 
 - **Electromagnetic Force ( $$EM-Curve$$ , Scale Inversion of $$P-Curve$$ )**:
 - 
-  $$\text{EM}(t) = n^{-1}P(t) = \left( \frac{\pi}{t}\sin t,\ \frac{\pi}{t}\cos^2 t \right),\quad t \in \left[ \frac{\pi}{2},\ n\pi \right]$$
+  $$EM(t) = n^{-1}P(t) = \left( \frac{\pi}{t}\sin t,\ \frac{\pi}{t}\cos^2 t \right),\quad t \in \left[ \frac{\pi}{2},\ n\pi \right]$$
 
 - **Gravitational Force ($$G-Curve$$ , Scale Expansion of $$R-Curve$$ )**:
 - 
